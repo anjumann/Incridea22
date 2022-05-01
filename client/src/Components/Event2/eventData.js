@@ -1360,7 +1360,7 @@ export const eventData = [
         "Time": "9:00 am",
         "venue": "Sambhram",
         "branch": "MECH",
-        "image": "/events/Mech/Melasquiz.jpg",
+        "image": "/events/Mech/MelasQuiz.jpg",
         "smallDesc": "Isn't life a collection of weird quizzes with no answers to half  the questions?",
         "fullDesc": "MELAS comprises questions ranging from Music, Entertainment , Literature, Arts and Sports. If you possess the required grey matter, then this event is meant for you.",
         "roundDetails": {
@@ -1399,7 +1399,7 @@ export const eventData = [
         "Time": "12:00 pm",
         "venue": "Shambhavi",
         "branch": "MECH",
-        "image": "/events/Mech/Melasquiz.jpg",
+        "image": "/events/Mech/MelasQuiz.jpg",
         "smallDesc": "Isn't life a collection of weird quizzes with no answers to half the questions?",
         "fullDesc": "MELAS comprises questions ranging from Music, Entertainment , Literature, Arts and Sports. If you possess the required grey matter, then this event is meant for you.",
         "roundDetails": {
